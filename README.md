@@ -2,6 +2,7 @@
 
 An MCP server for checking and revoking ERC-20 token allowances, enhancing security and control.
 
+[![smithery badge](https://smithery.ai/badge/@kukapay/token-revoke-mcp)](https://smithery.ai/server/@kukapay/token-revoke-mcp)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -21,6 +22,15 @@ An MCP server for checking and revoking ERC-20 token allowances, enhancing secur
 
 ## Installation
 
+### Installing via Smithery
+
+To install Token Revoke MCP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/token-revoke-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/token-revoke-mcp --client claude
+```
+
+### Manual Installation
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kukapay/token-revoke-mcp.git
@@ -112,4 +122,3 @@ The server supports a wide range of EVM-compatible chains based on the Moralis J
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
