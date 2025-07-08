@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-token-revoke-mcp-badge.png)](https://mseep.ai/app/kukapay-token-revoke-mcp)
+
 # Token Revoke MCP
 
 An MCP server for checking and revoking ERC-20 token allowances, enhancing security and control.
