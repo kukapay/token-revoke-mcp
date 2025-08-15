@@ -6,6 +6,8 @@ An MCP server for checking and revoking ERC-20 token allowances, enhancing secur
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/kukapay/token-revoke-mcp)](https://archestra.ai/mcp-catalog/kukapay__token-revoke-mcp)
+
 ## Features
 
 - **Fetch Token Approvals**: Retrieve all ERC20 token approvals for a wallet on a specified chain, including token details, balances, and USD values at risk.
