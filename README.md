@@ -13,6 +13,10 @@ An MCP server for checking and revoking ERC-20 token allowances, enhancing secur
 - **Check Transaction Status**: Verify the success or failure of submitted transactions using transaction hashes.
 - **Multi-Chain Support**: Supports over 50 EVM-compatible chains, including mainnets (e.g., Ethereum, Polygon, BSC) and testnets (e.g., Goerli, Mumbai).
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-token-revoke-mcp).
+
 ## Prerequisites
 
 - **Node.js**: Version 18 or higher (for native `fetch` support).
